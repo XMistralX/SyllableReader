@@ -7,7 +7,10 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <algorithm>
 #include "iconv.h"
+
+
 
 
 #define FILEID_SIZE (256)
@@ -48,7 +51,10 @@ namespace SyllableReader{
 
     public:
         static std::vector<string> db;
+        static std::vector<string> readedFile;
         static void add(string path);
+        static void read(string path);
+        static void search();
         static void count();
         static void print();
     };

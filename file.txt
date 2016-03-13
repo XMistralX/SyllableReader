@@ -1,0 +1,1091 @@
+Founded at ID: 1, Text: XXXYYYAASYSAAXXXYYYXXXYYYBBSYSBBXXXYYY 
+Founded at ID: 2, Text: XXXYYYCCSYSCCXXXYYYXXXYYYDDSYSDDXXXYYY 
+Founded at ID: 3, Text: XXXYYYEESYSEEXXXYYYXXXYYYFFSYSFFXXXYYY 
+Founded at ID: 4, Text: XXXYYYGGSYSGGXXXYYYXXXYYYHHSYSHHXXXYYY 
+Founded at ID: 5, Text: กA 
+Founded at ID: 6, Text: ขB 
+Founded at ID: 7, Text: คC 
+Founded at ID: 8, Text: ฆD 
+Founded at ID: 9, Text: งE 
+Founded at ID: 10, Text: จF 
+Founded at ID: 11, Text: ฉG 
+Founded at ID: 12, Text: ชH 
+Founded at ID: 13, Text: ซI 
+Founded at ID: 14, Text: ฌJ 
+Founded at ID: 15, Text: ญK 
+Founded at ID: 16, Text: ฎL 
+Founded at ID: 17, Text: ฏM 
+Founded at ID: 18, Text: ฐN 
+Founded at ID: 19, Text: ฑO 
+Founded at ID: 20, Text: ฒP 
+Founded at ID: 21, Text: ณQ 
+Founded at ID: 22, Text: ดR 
+Founded at ID: 23, Text: ตS 
+Founded at ID: 24, Text: ถT 
+Founded at ID: 25, Text: ทU 
+Founded at ID: 26, Text: ธV 
+Founded at ID: 27, Text: นW 
+Founded at ID: 28, Text: บX 
+Founded at ID: 29, Text: ปY 
+Founded at ID: 30, Text: ผZ 
+Founded at ID: 31, Text: ฝ1 
+Founded at ID: 32, Text: พ2 
+Founded at ID: 33, Text: ฟ3 
+Founded at ID: 34, Text: ภ4 
+Founded at ID: 35, Text: ม5 
+Founded at ID: 36, Text: ย6 
+Founded at ID: 37, Text: ร7 
+Founded at ID: 38, Text: ฤ8 
+Founded at ID: 39, Text: ล๙ 
+Founded at ID: 40, Text: 9๐ 
+Founded at ID: 41, Text: ว0 
+Founded at ID: 42, Text: ศ๑ 
+Founded at ID: 43, Text: ฮ๒ 
+Founded at ID: 44, Text: ษ๓ 
+Founded at ID: 45, Text: ส๔ 
+Founded at ID: 46, Text: ห๕ 
+Founded at ID: 47, Text: ฯ๖ 
+Founded at ID: 48, Text: อ๗ 
+Founded at ID: 49, Text: ฬ๘ 
+Founded at ID: 50, Text: รพโรงพยาบาล 
+Founded at ID: 51, Text: รรโรงเรียน 
+Founded at ID: 52, Text: พต 
+Founded at ID: 53, Text: พตท 
+Founded at ID: 54, Text: มทบ 
+Founded at ID: 55, Text: มตร 
+Founded at ID: 56, Text: มท 
+Founded at ID: 57, Text: มศว 
+Founded at ID: 58, Text: มลว 
+Founded at ID: 59, Text: มทอ 
+Founded at ID: 60, Text: รสพ 
+Founded at ID: 61, Text: ทศท 
+Founded at ID: 62, Text: ทศส 
+Founded at ID: 63, Text: ทสร 
+Founded at ID: 64, Text: ABON 
+Founded at ID: 65, Text: AGING 
+Founded at ID: 66, Text: ALIZEEB 
+Founded at ID: 67, Text: ALIE 
+Founded at ID: 68, Text: ANANT 
+Founded at ID: 69, Text: ANUCHIT 
+Founded at ID: 70, Text: APICHAYA 
+Founded at ID: 71, Text: ACTI 
+Founded at ID: 72, Text: AFFO 
+Founded at ID: 73, Text: AGEL 
+Founded at ID: 74, Text: AIRLINERESER 
+Founded at ID: 75, Text: ALFAS 
+Founded at ID: 76, Text: ALFRES 
+Founded at ID: 77, Text: ALLO 
+Founded at ID: 78, Text: ALMOND 
+Founded at ID: 79, Text: ALMONDS 
+Founded at ID: 80, Text: ALPUNCH 
+Founded at ID: 81, Text: ALLSTAR 
+Founded at ID: 82, Text: AOSUB 
+Founded at ID: 83, Text: APTECH 
+Founded at ID: 84, Text: ARLEK 
+Founded at ID: 85, Text: ARSUB 
+Founded at ID: 86, Text: ASTHI 
+Founded at ID: 87, Text: ATTHE 
+Founded at ID: 88, Text: AUTOGLASS 
+Founded at ID: 89, Text: BAANI 
+Founded at ID: 90, Text: BAANDOW 
+Founded at ID: 91, Text: BAANKHUN 
+Founded at ID: 92, Text: BAICHARK 
+Founded at ID: 93, Text: BAILEYS 
+Founded at ID: 94, Text: BANGPHLAT 
+Founded at ID: 95, Text: BARRU 
+Founded at ID: 96, Text: BETHEL 
+Founded at ID: 97, Text: BELLAY 
+Founded at ID: 98, Text: BELLOON 
+Founded at ID: 99, Text: BENCHAKHON 
+Founded at ID: 100, Text: BERM 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Founded at ID: 102, Text: BESTEVER 
+Founded at ID: 103, Text: BIOTIC 
+Founded at ID: 104, Text: BLACKCO 
+Founded at ID: 105, Text: BLISTON 
+Founded at ID: 106, Text: BLISSTEL 
+Founded at ID: 107, Text: BOMSUB 
+Founded at ID: 108, Text: BOONKHUM 
+Founded at ID: 109, Text: BOONSAMPHAN 
+Founded at ID: 110, Text: BOONTHA 
+Founded at ID: 111, Text: BOULEH 
+Founded at ID: 112, Text: BREASTS 
+Founded at ID: 113, Text: BRUTTIN 
+Founded at ID: 114, Text: BUAPUENGPATTA 
+Founded at ID: 115, Text: BUESA 
+Founded at ID: 116, Text: BUESUB 
+Founded at ID: 117, Text: BUONGIOR 
+Founded at ID: 118, Text: BURRI 
+Founded at ID: 119, Text: CCHAO 
+Founded at ID: 120, Text: CDDVD 
+Founded at ID: 121, Text: CRM 
+Founded at ID: 122, Text: CAPHE 
+Founded at ID: 123, Text: CANTEEN 
+Founded at ID: 124, Text: CARBO 
+Founded at ID: 125, Text: CARNA 
+Founded at ID: 126, Text: CARPARKING 
+Founded at ID: 127, Text: CARSUARI 
+Founded at ID: 128, Text: CENTRES 
+Founded at ID: 129, Text: CHAIKHAO 
+Founded at ID: 130, Text: CHAILOEI 
+Founded at ID: 131, Text: CHAKRAS 
+Founded at ID: 132, Text: CHAKRU 
+Founded at ID: 133, Text: CHAMNONGSUB 
+Founded at ID: 134, Text: CHANKAEW 
+Founded at ID: 135, Text: CHANSA 
+Founded at ID: 136, Text: CHOYUYA 
+Founded at ID: 137, Text: CHOOTOESUB 
+Founded at ID: 138, Text: CHUANCHONG 
+Founded at ID: 139, Text: CLAMS 
+Founded at ID: 140, Text: COCHIN 
+Founded at ID: 141, Text: COOLSYSTEM 
+Founded at ID: 142, Text: COURSES 
+Founded at ID: 143, Text: CRAFTZ 
+Founded at ID: 144, Text: CRISPY 
+Founded at ID: 145, Text: CRUSTED 
+Founded at ID: 146, Text: DNAC 
+Founded at ID: 147, Text: DTV 
+Founded at ID: 148, Text: DALLEECLEAN 
+Founded at ID: 149, Text: DANSUB 
+Founded at ID: 150, Text: DARBERG 
+Founded at ID: 151, Text: DEGREASER 
+Founded at ID: 152, Text: DECTIVE 
+Founded at ID: 153, Text: DENTA 
+Founded at ID: 154, Text: DUANGSI 
+Founded at ID: 155, Text: DUCTI 
+Founded at ID: 156, Text: DUCTIONS 
+Founded at ID: 157, Text: ENUFF 
+Founded at ID: 158, Text: ESUB 
+Founded at ID: 159, Text: EVAP 
+Founded at ID: 160, Text: ELKEN 
+Founded at ID: 161, Text: ELTA 
+Founded at ID: 162, Text: FAREEDA 
+Founded at ID: 163, Text: FAHTHAI 
+Founded at ID: 164, Text: FASTENERS 
+Founded at ID: 165, Text: FECTION 
+Founded at ID: 166, Text: FERNESS 
+Founded at ID: 167, Text: FIRSTVI 
+Founded at ID: 168, Text: FISHFEET 
+Founded at ID: 169, Text: FLECTIVE 
+Founded at ID: 170, Text: FONTAINE 
+Founded at ID: 171, Text: FONTI 
+Founded at ID: 172, Text: FRAPHIC 
+Founded at ID: 173, Text: FREEFORM 
+Founded at ID: 174, Text: GAFLEX 
+Founded at ID: 175, Text: GARGUAR 
+Founded at ID: 176, Text: GARMONTE 
+Founded at ID: 177, Text: GIEUSE 
+Founded at ID: 178, Text: GISTERED 
+Founded at ID: 179, Text: GLAZED 
+Founded at ID: 180, Text: GLORDA 
+Founded at ID: 181, Text: GOODLAKE 
+Founded at ID: 182, Text: GREENTOUCH 
+Founded at ID: 183, Text: GUNTHART 
+Founded at ID: 184, Text: HAIRLON 
+Founded at ID: 185, Text: HAIRPRO 
+Founded at ID: 186, Text: HAIRY 
+Founded at ID: 187, Text: HANDLIFT 
+Founded at ID: 188, Text: HEATING 
+Founded at ID: 189, Text: HERBIO 
+Founded at ID: 190, Text: HONEST 
+Founded at ID: 191, Text: HOMES 
+Founded at ID: 192, Text: HOUTTUIN 
+Founded at ID: 193, Text: HUANDALHA 
+Founded at ID: 194, Text: IRASHI 
+Founded at ID: 195, Text: ISOMECH 
+Founded at ID: 196, Text: ITSA 
+Founded at ID: 197, Text: INDOORSWIM 
+Founded at ID: 198, Text: INGJUN 
+Founded at ID: 199, Text: JATEI 
+Founded at ID: 200, Text: JACKET 
+Founded at ID: 201, Text: JAITHIP 
+Founded at ID: 202, Text: JEWELLERYCENTER 
+Founded at ID: 203, Text: JOSEPHINE 
+Founded at ID: 204, Text: JOCKING 
+Founded at ID: 205, Text: KAHA 
+Founded at ID: 206, Text: KALEN 
+Founded at ID: 207, Text: KAISUB 
+Founded at ID: 208, Text: KAMPHAENGSUB 
+Founded at ID: 209, Text: KANTTO 
+Founded at ID: 210, Text: KHINGSUB 
+Founded at ID: 211, Text: KHOTSUB 
+Founded at ID: 212, Text: KHUKHAN 
+Founded at ID: 213, Text: KIANGTA 
+Founded at ID: 214, Text: KINDERMATH 
+Founded at ID: 215, Text: KLHLONG 
+Founded at ID: 216, Text: KOHENG 
+Founded at ID: 217, Text: KONCHOB 
+Founded at ID: 218, Text: KONS 
+Founded at ID: 219, Text: KONGGADEN 
+Founded at ID: 220, Text: KRAPHO 
+Founded at ID: 221, Text: KRATHUNG 
+Founded at ID: 222, Text: KWANGSUB 
+Founded at ID: 223, Text: LAFEL 
+Founded at ID: 224, Text: LATHATSUB 
+Founded at ID: 225, Text: LAWHITE 
+Founded at ID: 226, Text: LAYER 
+Founded at ID: 227, Text: LIHAI 
+Founded at ID: 228, Text: LIETIE 
+Founded at ID: 229, Text: LINDER 
+Founded at ID: 230, Text: LINKON 
+Founded at ID: 231, Text: LOCKSUB 
+Founded at ID: 232, Text: LOFTY 
+Founded at ID: 233, Text: LORED 
+Founded at ID: 234, Text: LUZERNE 
+Founded at ID: 235, Text: LUNGLAO 
+Founded at ID: 236, Text: MABER 
+Founded at ID: 237, Text: MACHU 
+Founded at ID: 238, Text: MADEINCHIANGRAI 
+Founded at ID: 239, Text: MAKHUEA 
+Founded at ID: 240, Text: MATRIN 
+Founded at ID: 241, Text: MAIPLA 
+Founded at ID: 242, Text: MAIRIM 
+Founded at ID: 243, Text: MANSA 
+Founded at ID: 244, Text: MARBELLO 
+Founded at ID: 245, Text: MARNIER 
+Founded at ID: 246, Text: MASSA 
+Founded at ID: 247, Text: MASSAG 
+Founded at ID: 248, Text: MCKA 
+Founded at ID: 249, Text: MEZZE 
+Founded at ID: 250, Text: MINERY 
+Founded at ID: 251, Text: MIYO 
+Founded at ID: 252, Text: MISTI 
+Founded at ID: 253, Text: MITCHELL 
+Founded at ID: 254, Text: MOCKTAIL 
+Founded at ID: 255, Text: MOLTHIP 
+Founded at ID: 256, Text: MONTHONG 
+Founded at ID: 257, Text: MONGKOLCHAI 
+Founded at ID: 258, Text: MOULDING 
+Founded at ID: 259, Text: MOZZARELLA 
+Founded at ID: 260, Text: MUHUN 
+Founded at ID: 261, Text: MUANGAKE 
+Founded at ID: 262, Text: MUNTERS 
+Founded at ID: 263, Text: NACHUEK 
+Founded at ID: 264, Text: NAPHIN 
+Founded at ID: 265, Text: NAPHOUM 
+Founded at ID: 266, Text: NATED 
+Founded at ID: 267, Text: NEOMAC 
+Founded at ID: 268, Text: NERNTA 
+Founded at ID: 269, Text: NETTOYER 
+Founded at ID: 270, Text: NICRICE 
+Founded at ID: 271, Text: NOFFEE 
+Founded at ID: 272, Text: NONGNOO 
+Founded at ID: 273, Text: NOONSUB 
+Founded at ID: 274, Text: NUCHITSUB 
+Founded at ID: 275, Text: NUNET 
+Founded at ID: 276, Text: NUTRA 
+Founded at ID: 277, Text: NUALCHANT 
+Founded at ID: 278, Text: NYTER 
+Founded at ID: 279, Text: OCEANIA 
+Founded at ID: 280, Text: OREO 
+Founded at ID: 281, Text: OFFICETHAI 
+Founded at ID: 282, Text: PPALM 
+Founded at ID: 283, Text: PSHIRE 
+Founded at ID: 284, Text: PWORKS 
+Founded at ID: 285, Text: PATHUAN 
+Founded at ID: 286, Text: PAYAYEN 
+Founded at ID: 287, Text: PAIROJ 
+Founded at ID: 288, Text: PANTHONG 
+Founded at ID: 289, Text: PARMA 
+Founded at ID: 290, Text: PARS 
+Founded at ID: 291, Text: PASSA 
+Founded at ID: 292, Text: PASEYA 
+Founded at ID: 293, Text: PASHMY 
+Founded at ID: 294, Text: PAULO 
+Founded at ID: 295, Text: PEABERRY 
+Founded at ID: 296, Text: PEERA 
+Founded at ID: 297, Text: PHANETSUB 
+Founded at ID: 298, Text: PHAYAPHANSUB 
+Founded at ID: 299, Text: PHANTU 
+Founded at ID: 300, Text: PHITHEN 
+Founded at ID: 301, Text: PHONICS 
+Founded at ID: 302, Text: PHORNTHIP 
+Founded at ID: 303, Text: PHUKLENGLOM 
+Founded at ID: 304, Text: PHUNSUB 
+Founded at ID: 305, Text: PICHITSUB 
+Founded at ID: 306, Text: PITHAK 
+Founded at ID: 307, Text: PIASTRA 
+Founded at ID: 308, Text: PICKER 
+Founded at ID: 309, Text: PINKAEW 
+Founded at ID: 310, Text: PIWDEE 
+Founded at ID: 311, Text: PLATED 
+Founded at ID: 312, Text: PLAYS 
+Founded at ID: 313, Text: POTHAI 
+Founded at ID: 314, Text: POYO 
+Founded at ID: 315, Text: POLEONE 
+Founded at ID: 316, Text: PORNPATTA 
+Founded at ID: 317, Text: PORTED 
+Founded at ID: 318, Text: PORTSUB 
+Founded at ID: 319, Text: PRACHUM 
+Founded at ID: 320, Text: PRAEWAR 
+Founded at ID: 321, Text: PRISES 
+Founded at ID: 322, Text: PRODECTIVE 
+Founded at ID: 323, Text: PROWELL 
+Founded at ID: 324, Text: PUYUT 
+Founded at ID: 325, Text: PUNGSOD 
+Founded at ID: 326, Text: PUTTHA 
+Founded at ID: 327, Text: RMAN 
+Founded at ID: 328, Text: RSU 
+Founded at ID: 329, Text: RACHAKHWAI 
+Founded at ID: 330, Text: RAHOM 
+Founded at ID: 331, Text: RAHUE 
+Founded at ID: 332, Text: RAGEFRESH 
+Founded at ID: 333, Text: RAMPHAN 
+Founded at ID: 334, Text: RELEX 
+Founded at ID: 335, Text: REALTIME 
+Founded at ID: 336, Text: REANGWA 
+Founded at ID: 337, Text: RICHART 
+Founded at ID: 338, Text: RITHONSUB 
+Founded at ID: 339, Text: RIVERS 
+Founded at ID: 340, Text: RIENSUB 
+Founded at ID: 341, Text: ROMER 
+Founded at ID: 342, Text: ROADSHOW 
+Founded at ID: 343, Text: RONGNAM 
+Founded at ID: 344, Text: RUKHU 
+Founded at ID: 345, Text: RUNDA 
+Founded at ID: 346, Text: RUNGSANGSTORE 
+Founded at ID: 347, Text: SBUY 
+Founded at ID: 348, Text: SACHI 
+Founded at ID: 349, Text: SAHATSAKHANSUB 
+Founded at ID: 350, Text: SAKHO 
+Founded at ID: 351, Text: SALEESUB 
+Founded at ID: 352, Text: SAMENG 
+Founded at ID: 353, Text: SAINAISUB 
+Founded at ID: 354, Text: SALSA 
+Founded at ID: 355, Text: SAMBUSEK 
+Founded at ID: 356, Text: SANGO 
+Founded at ID: 357, Text: SAOSUB 
+Founded at ID: 358, Text: SASTER 
+Founded at ID: 359, Text: SATTHA 
+Founded at ID: 360, Text: SAUSAGES 
+Founded at ID: 361, Text: SEVENSEAS 
+Founded at ID: 362, Text: SEARED 
+Founded at ID: 363, Text: SHAIYO 
+Founded at ID: 364, Text: SHINSEN 
+Founded at ID: 365, Text: SHINSUNG 
+Founded at ID: 366, Text: SIKRINTARN 
+Founded at ID: 367, Text: SIAMNATHAN 
+Founded at ID: 368, Text: SINCHAIHUA 
+Founded at ID: 369, Text: SINDY 
+Founded at ID: 370, Text: SKEWER 
+Founded at ID: 371, Text: SLAVEN 
+Founded at ID: 372, Text: SMALLER 
+Founded at ID: 373, Text: SMOKED 
+Founded at ID: 374, Text: SOETSUB 
+Founded at ID: 375, Text: SOFTTEXT 
+Founded at ID: 376, Text: SOISUB 
+Founded at ID: 377, Text: SPARROWSHOUSE 
+Founded at ID: 378, Text: SQUIDY 
+Founded at ID: 379, Text: SRIMEX 
+Founded at ID: 380, Text: STACKER 
+Founded at ID: 381, Text: STANDING 
+Founded at ID: 382, Text: STEAMED 
+Founded at ID: 383, Text: STEWED 
+Founded at ID: 384, Text: STONEHEAD 
+Founded at ID: 385, Text: STUFFED 
+Founded at ID: 386, Text: SUCHINKO 
+Founded at ID: 387, Text: SUPERLAM 
+Founded at ID: 388, Text: SUTHATSUB 
+Founded at ID: 389, Text: SUADA 
+Founded at ID: 390, Text: SUKRUTHAI 
+Founded at ID: 391, Text: TALEG 
+Founded at ID: 392, Text: TACTI 
+Founded at ID: 393, Text: TAISEI 
+Founded at ID: 394, Text: TARROT 
+Founded at ID: 395, Text: TECHNOL 
+Founded at ID: 396, Text: TESTING 
+Founded at ID: 397, Text: THAILASER 
+Founded at ID: 398, Text: THIMSIAM 
+Founded at ID: 399, Text: THOMS 
+Founded at ID: 400, Text: TIZER 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Founded at ID: 401, Text: TIZERS 
+Founded at ID: 402, Text: TIONSUB 
+Founded at ID: 403, Text: TONGYANG 
+Founded at ID: 404, Text: TOOLING 
+Founded at ID: 405, Text: TORTELLI 
+Founded at ID: 406, Text: TOULOUSE 
+Founded at ID: 407, Text: TRAININGANDCONSULTING 
+Founded at ID: 408, Text: TRANSPORTA 
+Founded at ID: 409, Text: TRANSDUCER 
+Founded at ID: 410, Text: TRENDZ 
+Founded at ID: 411, Text: TRISTAR 
+Founded at ID: 412, Text: UNISEARCH 
+Founded at ID: 413, Text: USUB 
+Founded at ID: 414, Text: UNSLEEP 
+Founded at ID: 415, Text: UTTHAYANSUB 
+Founded at ID: 416, Text: VATED 
+Founded at ID: 417, Text: VEENUS 
+Founded at ID: 418, Text: VILLAGES 
+Founded at ID: 419, Text: WADEEUBON 
+Founded at ID: 420, Text: WAENGSUB 
+Founded at ID: 421, Text: WANSAR 
+Founded at ID: 422, Text: WANGTORSUB 
+Founded at ID: 423, Text: WATCHANTRA 
+Founded at ID: 424, Text: WAVES 
+Founded at ID: 425, Text: WEPLUS 
+Founded at ID: 426, Text: WIHARN 
+Founded at ID: 427, Text: WIANGSI 
+Founded at ID: 428, Text: WIANGSUB 
+Founded at ID: 429, Text: WIENKAPHANGSUB 
+Founded at ID: 430, Text: WINSENT 
+Founded at ID: 431, Text: WONGIN 
+Founded at ID: 432, Text: YTAPE 
+Founded at ID: 433, Text: YASSA 
+Founded at ID: 434, Text: YOGHURT 
+Founded at ID: 435, Text: ZAFARANI 
+Founded at ID: 436, Text: ZIOSA 
+Founded at ID: 437, Text: ZUREE 
+Founded at ID: 438, Text: ก็วิ่งลงสระ 
+Founded at ID: 439, Text: ก็วิ่งหลบฝน 
+Founded at ID: 440, Text: ก็อร 
+Founded at ID: 441, Text: กร้อสอย 
+Founded at ID: 442, Text: กรอบจน 
+Founded at ID: 443, Text: กรอบราด 
+Founded at ID: 444, Text: กริลล์จน 
+Founded at ID: 445, Text: กรีมรส 
+Founded at ID: 446, Text: กลมกล่อมลง 
+Founded at ID: 447, Text: กลมกล่อมหอมครบ 
+Founded at ID: 448, Text: กลับกลิ่น 
+Founded at ID: 449, Text: กลับส 
+Founded at ID: 450, Text: กลางวง 
+Founded at ID: 451, Text: กลิ่นหอมกรุ่น 
+Founded at ID: 452, Text: กลิ่มหอม 
+Founded at ID: 453, Text: กวางงอย 
+Founded at ID: 454, Text: กวางหมัก 
+Founded at ID: 455, Text: กอกผสม 
+Founded at ID: 456, Text: กอดอก 
+Founded at ID: 457, Text: ก่อนสวม 
+Founded at ID: 458, Text: ก้อยหมูทอด 
+Founded at ID: 459, Text: กังวลประ 
+Founded at ID: 460, Text: กัดลง 
+Founded at ID: 461, Text: กันก 
+Founded at ID: 462, Text: กันจริง 
+Founded at ID: 463, Text: กันตรง 
+Founded at ID: 464, Text: กันพอสมควร 
+Founded at ID: 465, Text: กันสอง 
+Founded at ID: 466, Text: กับกบ 
+Founded at ID: 467, Text: กับกล่าว 
+Founded at ID: 468, Text: กับครีมซอ 
+Founded at ID: 469, Text: กับครีมซอสรส 
+Founded at ID: 470, Text: กับครีมซอสรสกลมกล่อม 
+Founded at ID: 471, Text: กับครีมซอสหอย 
+Founded at ID: 472, Text: กับคลื่นลม 
+Founded at ID: 473, Text: กับชวน 
+Founded at ID: 474, Text: กับซอสครีม 
+Founded at ID: 475, Text: กับซอสจน 
+Founded at ID: 476, Text: กับซอสพริกศรี 
+Founded at ID: 477, Text: กับตอนกลาง 
+Founded at ID: 478, Text: กับทราย์ส 
+Founded at ID: 479, Text: กับทองสม 
+Founded at ID: 480, Text: กับฟอน 
+Founded at ID: 481, Text: กับรสขม 
+Founded at ID: 482, Text: กับรสหวานสด 
+Founded at ID: 483, Text: กับลมหนาว 
+Founded at ID: 484, Text: กับสอง 
+Founded at ID: 485, Text: กากรตรวจ 
+Founded at ID: 486, Text: กาลอนดอน 
+Founded at ID: 487, Text: กางคอยออก 
+Founded at ID: 488, Text: กายข 
+Founded at ID: 489, Text: กายบน 
+Founded at ID: 490, Text: การคงหนี 
+Founded at ID: 491, Text: การครบครบครัน 
+Founded at ID: 492, Text: การคอยบริ 
+Founded at ID: 493, Text: การจราจล 
+Founded at ID: 494, Text: การจอดฟรี 
+Founded at ID: 495, Text: การชมพระ 
+Founded at ID: 496, Text: การตอบสนอง 
+Founded at ID: 497, Text: การตอบสนองกลุ่ม 
+Founded at ID: 498, Text: การปรับปรุงออก 
+Founded at ID: 499, Text: การปรุงสด 
+Founded at ID: 500, Text: การปลูกดอก 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Founded at ID: 501, Text: การพรท 
+Founded at ID: 502, Text: การพริต 
+Founded at ID: 503, Text: การ์มอง 
+Founded at ID: 504, Text: การรอบกอง 
+Founded at ID: 505, Text: การหลบหนี 
+Founded at ID: 506, Text: การอน 
+Founded at ID: 507, Text: การ์ดพลาส 
+Founded at ID: 508, Text: กาลคร 
+Founded at ID: 509, Text: กาศกลิ่น 
+Founded at ID: 510, Text: กาศคง 
+Founded at ID: 511, Text: กาศควบ 
+Founded at ID: 512, Text: กาศตรง 
+Founded at ID: 513, Text: กาศม 
+Founded at ID: 514, Text: กาศสงบร่ม 
+Founded at ID: 515, Text: กาศสงบส 
+Founded at ID: 516, Text: กาศสวนผล 
+Founded at ID: 517, Text: กาศหวาน 
+Founded at ID: 518, Text: กิจกลาง 
+Founded at ID: 519, Text: กิจตลอดจน 
+Founded at ID: 520, Text: กิจพริ้นท์ 
+Founded at ID: 521, Text: กิจพฤก 
+Founded at ID: 522, Text: กิจหลอมพลาส 
+Founded at ID: 523, Text: กิตกรุบ 
+Founded at ID: 524, Text: กี้คลอง 
+Founded at ID: 525, Text: กี้คลับพอ 
+Founded at ID: 526, Text: กึ่งผจญ 
+Founded at ID: 527, Text: กุ้งกว่า 
+Founded at ID: 528, Text: กุ้งตกส 
+Founded at ID: 529, Text: กุ้งทอดกรอบราด 
+Founded at ID: 530, Text: กุ้งปรุงรสหอมกลิ่นส 
+Founded at ID: 531, Text: กุ้งสดบน 
+Founded at ID: 532, Text: กุ้งอวบทอดพริก 
+Founded at ID: 533, Text: กุดประ 
+Founded at ID: 534, Text: กู้ตรง 
+Founded at ID: 535, Text: กูลวร 
+Founded at ID: 536, Text: เกตราด 
+Founded at ID: 537, Text: เก่งค 
+Founded at ID: 538, Text: เกตุคง 
+Founded at ID: 539, Text: เกรียวทอด 
+Founded at ID: 540, Text: เกลียวครู 
+Founded at ID: 541, Text: เกิร์ตรสกลมกล่อม 
+Founded at ID: 542, Text: เกิร์ตส 
+Founded at ID: 543, Text: แก่ตน 
+Founded at ID: 544, Text: แก่สระ 
+Founded at ID: 545, Text: แกนพลาส 
+Founded at ID: 546, Text: แกนรถ 
+Founded at ID: 547, Text: แกนรถยก 
+Founded at ID: 548, Text: แก้มรถ 
+Founded at ID: 549, Text: โก้ดอก 
+Founded at ID: 550, Text: โก้พรอส 
+Founded at ID: 551, Text: โกรวคอร์ปอ 
+Founded at ID: 552, Text: ไกล้ค่ำ 
+Founded at ID: 553, Text: ไกลมล 
+Founded at ID: 554, Text: ขนมอบหอมกรุ่น 
+Founded at ID: 555, Text: ข้นลอยหน้า 
+Founded at ID: 556, Text: ข้นหอมอ 
+Founded at ID: 557, Text: ข้นหอย 
+Founded at ID: 558, Text: ขมชง 
+Founded at ID: 559, Text: ขวางชม 
+Founded at ID: 560, Text: ขวางพอ 
+Founded at ID: 561, Text: ขวางมอง 
+Founded at ID: 562, Text: ขวางรอง 
+Founded at ID: 563, Text: ของกรมพลา 
+Founded at ID: 564, Text: ของกริล 
+Founded at ID: 565, Text: ของกลิ่นหอมหวน 
+Founded at ID: 566, Text: ของขวด 
+Founded at ID: 567, Text: ของครีม 
+Founded at ID: 568, Text: ของคลิ 
+Founded at ID: 569, Text: ของจอมพลกรมหลวงนคร 
+Founded at ID: 570, Text: ของชนบท 
+Founded at ID: 571, Text: ของดอนหอยหลอด 
+Founded at ID: 572, Text: ของดอยหมอกดอก 
+Founded at ID: 573, Text: ของตรีสรา 
+Founded at ID: 574, Text: ของทองหล่อ 
+Founded at ID: 575, Text: ของนอร์ธ 
+Founded at ID: 576, Text: ของพรี่ 
+Founded at ID: 577, Text: ของฟองนม 
+Founded at ID: 578, Text: ของมล 
+Founded at ID: 579, Text: ของรจ 
+Founded at ID: 580, Text: ของรอย 
+Founded at ID: 581, Text: ของวน 
+Founded at ID: 582, Text: ของวอด 
+Founded at ID: 583, Text: ของสตรอ 
+Founded at ID: 584, Text: ของหน้าา 
+Founded at ID: 585, Text: ของหมอกผสมผ 
+Founded at ID: 586, Text: ของหอประ 
+Founded at ID: 587, Text: ของหอยทอด 
+Founded at ID: 588, Text: ขององค์กรข 
+Founded at ID: 589, Text: ขัดบน 
+Founded at ID: 590, Text: ขัดสน 
+Founded at ID: 591, Text: ขับกล่อมคลาส 
+Founded at ID: 592, Text: ขับกล่อมบท 
+Founded at ID: 593, Text: ขับกล่อมพร้อม 
+Founded at ID: 594, Text: ขับชมรอบ 
+Founded at ID: 595, Text: ขัยพฤกษ์ 
+Founded at ID: 596, Text: ข้างตก 
+Founded at ID: 597, Text: ข้างวอย 
+Founded at ID: 598, Text: ข้ามคตลองประ 
+Founded at ID: 599, Text: ข้ามปราณ 
+Founded at ID: 600, Text: ขามปรุงรส 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Not Founded 
+Elapsed time = 13.460446

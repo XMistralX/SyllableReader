@@ -87,7 +87,7 @@ namespace SyllableReader{
         char outchar[200];
 
         start = clock();
-        for(string keyword : readedFile) {
+        /*for(string keyword : readedFile) {
             founded = 1;
             count = 1;
             for(string out: db) {
@@ -102,8 +102,8 @@ namespace SyllableReader{
                 fprintf(f ,"Not Founded \n");
                 printf("Not Founded \n");
             }
-        }
-        /*for(string keyword : readedFile) {
+        }*/
+        for(string keyword : readedFile) {
             founded = 1;
             count = 1;
 
@@ -117,7 +117,7 @@ namespace SyllableReader{
                 fprintf(f, "Founded at ID: %d, Text: %s \n", got->second, (got->first).c_str());
             }
             std::cout << std::endl;
-        }*/
+        }
         end = clock();
         elapsed_time = (end - start)/(double)CLOCKS_PER_SEC;
         fprintf(f,"Elapsed time = %lf\n",elapsed_time);

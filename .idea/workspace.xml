@@ -15,11 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c67c1179-3ff8-4c22-b02a-b94bb236c10a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SyllableReaderProj.iml" afterPath="$PROJECT_DIR$/.idea/SyllableReaderProj.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file.txt" afterPath="$PROJECT_DIR$/file.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reader.cpp" afterPath="$PROJECT_DIR$/reader.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reader.h" afterPath="$PROJECT_DIR$/reader.h" />
     </list>
     <ignored path="SyllableReaderProj.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,8 +50,8 @@
       <file leaf-file-name="reader.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reader.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34637964">
-              <caret line="92" column="33" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.40508807">
+              <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -707,8 +704,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reader.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34637964">
-          <caret line="92" column="33" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.40508807">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
           <folding />
         </state>
       </provider>

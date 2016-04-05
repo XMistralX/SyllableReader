@@ -13,12 +13,14 @@ namespace SyllableReader{
 
     vector<string> Reader::db;
     vector<string> Reader::readedFile;
+    unordered_map<std::string,int> Reader::hashmap;
 
 
     void Reader::add(string path)
     {
         ifstream fp(path, ios::binary);
         FILEID id;
+        int runner = 1;
 
 
         char out[1023];
@@ -43,7 +45,9 @@ namespace SyllableReader{
 
             db.push_back(out);
 
-
+            std::pair<std::string,int> element (out,runner);
+            hashmap.insert(element);
+            runner++;
 
         }
     }
@@ -99,6 +103,21 @@ namespace SyllableReader{
                 printf("Not Founded \n");
             }
         }
+        /*for(string keyword : readedFile) {
+            founded = 1;
+            count = 1;
+
+            std::unordered_map<std::string,int>::const_iterator got = hashmap.find (keyword);
+            if ( got == hashmap.end() ) {
+                fprintf(f, "Not Founded \n");
+                std::cout << "not found";
+            }
+            else {
+                std::cout << got->first << " is " << got->second;
+                fprintf(f, "Founded at ID: %d, Text: %s \n", got->second, (got->first).c_str());
+            }
+            std::cout << std::endl;
+        }*/
         end = clock();
         elapsed_time = (end - start)/(double)CLOCKS_PER_SEC;
         fprintf(f,"Elapsed time = %lf\n",elapsed_time);

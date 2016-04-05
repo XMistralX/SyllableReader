@@ -1088,4 +1088,4 @@ Not Founded
 Not Founded 
 Not Founded 
 Not Founded 
-Elapsed time = 13.460446
+Elapsed time = 15.065596
